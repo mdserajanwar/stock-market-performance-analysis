@@ -1,7 +1,6 @@
 # Global Stock Market Analysis
 
 ## Table of Contents
-- [Brief One-Line Summary](#brief-one-line-summary)
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
 - [Dataset](#dataset)
@@ -15,8 +14,6 @@
 - [Author](#author)
 
 ---
-
-## Brief One-Line Summary
 
 An end-to-end analysis of 5 Indian and 5 US stocks using Python, SQL Server and Power BI to compare stock performance, identify top-performing companies and analyse trading volume across both markets.
 
@@ -270,6 +267,4 @@ This project helped me gain practical experience in data cleaning, stock market 
 
 **Skills:** Python | Pandas | Matplotlib | SQL Server | Power BI | DAX
 
-GitHub: [Add Your GitHub Profile Link]
-
-LinkedIn: [Add Your LinkedIn Profile Link]
+LinkedIn: https://www.linkedin.com/in/md-seraj-anwar-45a32325a/
