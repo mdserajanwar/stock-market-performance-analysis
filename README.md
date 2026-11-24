@@ -197,7 +197,7 @@ The interactive Power BI dashboard contains 4 pages with KPI cards, DAX measures
 
 ### Dashboard Preview
 
-[Stock Market Dashboard](Image/smpa_dashboard.png) 
+![Stock Market Dashboard](Image/smpa_dashboard.png) 
 
 ## Repository Structure
 
