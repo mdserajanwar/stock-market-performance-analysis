@@ -1,0 +1,49 @@
+{
+  "name": "Global Stock Dark Blue",
+  "dataColors": ["#2196F3", "#FF9800", "#7E57C2", "#2EAD5B", "#00BCD4", "#EC407A", "#FFC107", "#8D6E63", "#5C6BC0", "#26A69A"],
+  "background": "#FFFFFF",
+  "foreground": "#0B1F3F",
+  "tableAccent": "#2196F3",
+  "good": "#2EAD5B",
+  "neutral": "#FF9800",
+  "bad": "#E53935",
+  "maximum": "#2196F3",
+  "center": "#FFC107",
+  "minimum": "#0B1F3F",
+  "textClasses": {
+    "callout": { "fontSize": 32, "fontFace": "Segoe UI Semibold", "color": "#0B1F3F" },
+    "title": { "fontSize": 14, "fontFace": "Segoe UI Semibold", "color": "#0B1F3F" },
+    "header": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#FFFFFF" },
+    "label": { "fontSize": 11, "fontFace": "Segoe UI", "color": "#33415C" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 100 }],
+        "border": [{ "show": false }],
+        "title": [{ "show": false, "fontColor": { "solid": { "color": "#0B1F3F" } }, "fontFamily": "Segoe UI Semibold" }],
+        "categoryAxis": [{ "labelColor": { "solid": { "color": "#33415C" } }, "fontSize": 11 }],
+        "valueAxis": [{ "labelColor": { "solid": { "color": "#33415C" } }, "fontSize": 11 }],
+        "legend": [{ "labelColor": { "solid": { "color": "#33415C" } }, "fontSize": 11 }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{ "color": { "solid": { "color": "#0B1F3F" } }, "fontSize": 32, "fontFamily": "Segoe UI Semibold" }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#0B1F3F" } }, "fontSize": 14 }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "columnHeaders": [{ "backColor": { "solid": { "color": "#0B1F3F" } }, "fontColor": { "solid": { "color": "#FFFFFF" } }, "fontSize": 12 }],
+        "values": [{ "backColor": { "solid": { "color": "#12305E" } }, "backColorPrimary": { "solid": { "color": "#12305E" } }, "backColorSecondary": { "solid": { "color": "#0F2850" } }, "fontColorPrimary": { "solid": { "color": "#FFFFFF" } }, "fontColorSecondary": { "solid": { "color": "#FFFFFF" } }, "fontSize": 12 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{ "show": true, "fontColor": { "solid": { "color": "#FFFFFF" } }, "fontSize": 13 }],
+        "items": [{ "fontColor": { "solid": { "color": "#0B1F3F" } }, "background": { "solid": { "color": "#E8F1FB" } } }]
+      }
+    }
+  }
+}
